@@ -30,7 +30,7 @@ const default_config = {
             },
              {
               name: "github",
-              url: "https://github.com/ashish0kumar",
+              url: "https://github.com/proxas",
               icon: "brand-github",
               icon_color: palette.green,
             },
@@ -38,6 +38,12 @@ const default_config = {
               name: "docs",
               url: "https://docs.google.com/document/u/0/",
               icon: "file-text",
+              icon_color: palette.blue,
+            },
+            {
+              name: "netlify",
+              url: "https://app.netlify.com/",
+              icon: "square-rotated",
               icon_color: palette.blue,
             },
           ],
