@@ -2740,6 +2740,10 @@
   content: "\f35a";
 }
 
+.ti-brand-bluesky:before {
+  content: "\fd75";
+}
+
 .ti-brand-booking:before {
   content: "\edc8";
 }
