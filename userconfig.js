@@ -83,19 +83,19 @@ const default_config = {
                 {
                   name: "XMA",
                   url: "https://www.xivmodarchive.com",
-                  icon: "IconX",
+                  icon: "x",
                   icon_color: palette.maroon,
                 },
                 {
                   name: "heliosphere",
                   url: "https://www.xivmodarchive.com",
-                  icon: "IconDog",
+                  icon: "dog",
                   icon_color: palette.yellow,
                 },
                 {
                   name: "archipelago",
                   url: "https://archipelago.gg/",
-                  icon: "IconCircleDotted",
+                  icon: "circle-dotted",
                   icon_color: palette.peach,
                 }
           ]
