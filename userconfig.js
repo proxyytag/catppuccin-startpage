@@ -77,6 +77,29 @@ const default_config = {
             },
           ],
         },
+        {
+          name: "",
+          links: [
+                {
+                  name: "XMA",
+                  url: "https://www.xivmodarchive.com",
+                  icon: "IconX",
+                  icon_color: palette.maroon,
+                },
+                {
+                  name: "heliosphere",
+                  url: "https://www.xivmodarchive.com",
+                  icon: "IconDog",
+                  icon_color: palette.yellow,
+                },
+                {
+                  name: "archipelago",
+                  url: "https://archipelago.gg/",
+                  icon: "IconCircleDotted",
+                  icon_color: palette.peach,
+                }
+          ]
+        },
       ],
     },
   ],
