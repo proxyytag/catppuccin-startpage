@@ -98,25 +98,27 @@ const default_config = {
                   icon: "circle-dotted",
                   icon_color: palette.peach,
                 }
-          ],
+          ]
+        },
+        {
           name: "",
           links: [
                 {
                   name: "Fugi",
                   url: "https://reactive.fugi.tech/",
-                  icon: "IconSettings",
+                  icon: "settings",
                   icon_color: palette.maroon,
                 },
                 {
                   name: "Voltaic",
                   url: "https://beta.voltaic.gg/",
-                  icon: "IconLetterV",
+                  icon: "letter-v",
                   icon_color: palette.yellow,
                 },
                 {
                   name: "sheets",
                   url: "https://docs.google.com/spreadsheets/u/0/",
-                  icon: "IconBrandGoogleFilled",
+                  icon: "brand-google",
                   icon_color: palette.peach,
                 }
           ]
