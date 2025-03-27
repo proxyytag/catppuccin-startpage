@@ -88,7 +88,7 @@ const default_config = {
                 },
                 {
                   name: "heliosphere",
-                  url: "https://heliosphere.app/",
+                  url: "https://www.xivmodarchive.com",
                   icon: "dog",
                   icon_color: palette.yellow,
                 },
@@ -98,7 +98,7 @@ const default_config = {
                   icon: "circle-dotted",
                   icon_color: palette.peach,
                 }
-          ]
+          ],
           name: "",
           links: [
                 {
