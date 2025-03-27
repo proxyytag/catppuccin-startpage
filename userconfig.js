@@ -99,6 +99,27 @@ const default_config = {
                   icon_color: palette.peach,
                 }
           ]
+          name: "",
+          links: [
+                {
+                  name: "Fugi",
+                  url: "https://reactive.fugi.tech/",
+                  icon: "IconSettings",
+                  icon_color: palette.maroon,
+                },
+                {
+                  name: "Voltaic",
+                  url: "https://beta.voltaic.gg/",
+                  icon: "IconLetterV",
+                  icon_color: palette.yellow,
+                },
+                {
+                  name: "sheets",
+                  url: "https://docs.google.com/spreadsheets/u/0/",
+                  icon: "IconBrandGoogleFilled",
+                  icon_color: palette.peach,
+                }
+          ]
         },
       ],
     },
