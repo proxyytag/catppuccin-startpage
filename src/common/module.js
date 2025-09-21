@@ -3,11 +3,7 @@
 
 // Map of component tag names to their corresponding classes
 const components = {
-<<<<<<< HEAD
-//  'search-bar': Search,
-=======
   "search-bar": Search,
->>>>>>> c7ab74cd2439ad8e78c8319a66639cb585b0e984
   "status-bar": Statusbar,
   "current-time": Clock,
   "weather-forecast": Weather,

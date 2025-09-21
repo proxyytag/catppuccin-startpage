@@ -22,13 +22,9 @@ class Component extends HTMLElement {
     },
     /** Icon font libraries */
     icons: {
-<<<<<<< HEAD
-      material: '<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">',
-=======
       material:
         '<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">',
       materialLocal: '<link rel="stylesheet" href="src/fonts/material-icons-local.css">',
->>>>>>> c7ab74cd2439ad8e78c8319a66639cb585b0e984
       cryptofont: '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/monzanifabio/cryptofont/cryptofont.css">',
       tabler: '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">'
     },
