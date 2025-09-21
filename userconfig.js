@@ -197,7 +197,7 @@ const default_configuration = {
 		      	{
               name: "bluesky",
               url: "https://bsky.app",
-              icon: "brand-bsky",
+              icon: "brand-bluesky",
               icon_color: palette.sky,
             },
           ],
